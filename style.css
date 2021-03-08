@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    margin: 0%;
+    padding-top: 900px;
+}
+
+.profile{
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+#welcome{
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: green;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.83;
+    background: linear-gradient(#e010cf 0%, #d3e010 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.parallex-inner{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+p{
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+    padding: 5px;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#bio{
+    padding: 50px;
+    font-size: 40px;
+}
